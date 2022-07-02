@@ -1,2 +1,2 @@
-# Try Hack Me writeups!!
-This is my first writeups repo.
+# TryHackMe writeups!!
+This is my first writeup repo.
