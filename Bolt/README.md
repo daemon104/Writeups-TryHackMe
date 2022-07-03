@@ -2,15 +2,15 @@
 
 Link: https://tryhackme.com/room/bolt
 
-## Mục lục
+## Mục lục <a name="menu"> </a>
 ---
 
 Bolt
-* Mục lục
+* [Mục lục](#menu) 
 * [Thu thập thông tin](#infor)
-* Xác định lỗ hổng bảo mật
-* Tiến hành xâm nhập
-* Kết quả
+* [Xác định lỗ hổng bảo mật](#vuln)
+* [Tiến hành xâm nhập](#exploit)
+* [Kết quả](#result)
 
 
 ---
@@ -49,7 +49,7 @@ Sau 1 lúc tìm kiếm và truy cập các sub domain, mình tìm thấy url đ�
 ![](https://i.imgur.com/AfZPEGz.png)
 
 ---
-## Xác định lỗ hổng bảo mật
+## Xác định lỗ hổng bảo mật <a name="vuln"> </a>
 
 Ở trang dashboard của admin Jake, chú ý góc dưới cùng bên trái, mình thấy được CMS Blot có version là 3.7.1. Mình sẽ thử dùng metasploit framework để search lỗ hổng của Bolt3.7.1:
 
@@ -63,7 +63,7 @@ Về phần câu lệnh thao tác với metasploit, bạn có thể xem ở đâ
 > https://docs.rapid7.com/metasploit/
 
 ---
-## Tiến hành xâm nhập
+## Tiến hành xâm nhập <a name="exploit"> </a>
 
 Đầu tiên, mình sẽ dùng câu lệnh options để xem toàn bộ option của module:
 
@@ -80,7 +80,7 @@ Tiến hành xâm nhập:
 Sau khi đã xâm nhập thành công và có được quyền root, mình sẽ tìm và cat file flag.txt để hoàn thành room:
 
 ---
-## Kết quả: 
+## Kết quả: <a name="result"> </a>
 
 File flag.txt sẽ nằm ở /home:
 
