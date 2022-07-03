@@ -3,10 +3,8 @@
 Link: https://tryhackme.com/room/bolt
 
 ## Mục lục
----
 
 [TOC]
-
 
 ---
 ## Thu thập thông tin
