@@ -1,8 +1,3 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
-
 # Bolt
 
 Link: https://tryhackme.com/room/bolt
