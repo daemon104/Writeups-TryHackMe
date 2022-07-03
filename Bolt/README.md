@@ -5,12 +5,7 @@ Link: https://tryhackme.com/room/bolt
 ## Mục lục
 ---
 
-Bolt
-* Mục lục
-* Thu thập thông tin
-* Xác định lỗ hổng bảo mật
-* Tiến hành xâm nhập
-* Kết quả
+[TOC]
 
 
 ---
