@@ -7,14 +7,14 @@ Link: https://tryhackme.com/room/bolt
 
 Bolt
 * Mục lục
-* Thu thập thông tin
+[Thu thập thông tin](#infor)
 * Xác định lỗ hổng bảo mật
 * Tiến hành xâm nhập
 * Kết quả
 
 
 ---
-## Thu thập thông tin
+## Thu thập thông tin <a name="infor"> </a>
 
 Đầu tiên, mình sẽ dùng nmap scan tổng quan qua các ports tcp, udp đang mở của server:
 
