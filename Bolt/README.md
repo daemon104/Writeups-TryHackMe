@@ -6,7 +6,7 @@ Link: https://tryhackme.com/room/bolt
 ---
 
 Bolt
-* [Mục lục](#Mục lục)
+* Mục lục
 * Thu thập thông tin
 * Xác định lỗ hổng bảo mật
 * Tiến hành xâm nhập
