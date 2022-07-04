@@ -5,7 +5,6 @@ Link: https://tryhackme.com/room/bolt
 ---
 ## Mục lục <a name="menu"> </a>
 
-Bolt
 * [Mục lục](#menu) 
 * [Thu thập thông tin](#infor)
 * [Xác định lỗ hổng bảo mật](#vuln)
