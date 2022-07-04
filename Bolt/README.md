@@ -19,10 +19,9 @@ Link: https://tryhackme.com/room/bolt
 
 ![](https://i.imgur.com/HxIV6Br.png)
 
+> *(Lưu ý: Trong pentest thực tế, bạn cần scan hết 65535 ports để nắm hết các port và service đang chạy trên server, vì mình đã scan rồi và không thấy port nào khác nên khi viết wu mình chỉ scan tổng quan 1000 ports cho ngắn gọn và nhanh hơn)*
+
 Tất cả port UDP hầu như đều bị filtered, ta tạm thời bỏ qua.
-
-> Thường thi các room của TryHackMe chỉ để lỗ hổng ở các port thông dụng (1-1000) nên ưu tiên scan 1000 port này trước, nếu không thu được kết quả khả quan, hãy scan toàn bộ port bằng flag -p-.
-
 Kết quả scan tổng quan thu được 3 port đang mở. Tiếp tục dùng script scan 3 port này:
 
 ![](https://i.imgur.com/iFXc9zs.png)
@@ -31,7 +30,6 @@ Kết quả thu được như sau:
 * Port 22: OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (SSH)
 * Port 80: Apache httpd 2.4.29 (HTTP)
 * Port 8000: HTTP service
-* OS: Linux Ubuntu
 
 Thử truy cập http://10.10.178.163:80/ thì không thấy gì thú vị chuyển qua http://10.10.178.163:8000/ 
 
