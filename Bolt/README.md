@@ -2,8 +2,8 @@
 
 Link: https://tryhackme.com/room/bolt
 
-## Mục lục <a name="menu"> </a>
 ---
+## Mục lục <a name="menu"> </a>
 
 Bolt
 * [Mục lục](#menu) 
