@@ -11,7 +11,7 @@ TOOL:
 * Nc: https://docs.oracle.com/cd/E36784_01/html/E36870/netcat-1.html
 
 NGUỒN THAM KHẢO:
-* GTFPbins: https://gtfobins.github.io/
+* GTFObins: https://gtfobins.github.io/
 * Pentestmonkey: https://pentestmonkey.net/
 * Pentestlab: https://pentesterlab.com/
 * bWAPP: http://www.itsecgames.com/
