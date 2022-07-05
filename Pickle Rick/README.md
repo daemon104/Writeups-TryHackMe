@@ -1,6 +1,8 @@
 Pickle Rick
 ===
 
+Link: https://tryhackme.com/room/picklerick
+
 ---
 ## Mục lục <a name="menu"></a>
 
