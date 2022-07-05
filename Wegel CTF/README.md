@@ -1,6 +1,8 @@
 Wgel
 ===
 
+Link: https://tryhackme.com/room/wgelctf
+
 ---
 ## Mục lục <a name="menu"></a>
 
