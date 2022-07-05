@@ -1,5 +1,4 @@
 # TryHackMe writeups!!
-===
 
 Đây là writeup repo đầu tiên của mình. Repo chỉ có vài room cơ bản nhưng sẽ được bổ sung trong tương lai. Chúc các bạn đọc writeups vui vẻ!
 Mình sẽ để link docs của các tool mình sử dụng và 1 số nguồn hay để tham khảo ở đây:
