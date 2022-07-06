@@ -19,8 +19,6 @@ Link: https://tryhackme.com/room/bolt
 
 ![](https://i.imgur.com/HxIV6Br.png)
 
-> *(Lưu ý: Trong pentest thực tế, bạn cần scan hết 65535 ports để nắm hết các port và service đang chạy trên server, vì mình đã scan rồi và không thấy port nào khác nên khi viết wu mình chỉ scan tổng quan 1000 ports cho ngắn gọn và nhanh hơn)*
-
 Tất cả port UDP hầu như đều bị filtered, ta tạm thời bỏ qua.
 Kết quả scan tổng quan thu được 3 port đang mở. Tiếp tục dùng script scan 3 port này:
 
