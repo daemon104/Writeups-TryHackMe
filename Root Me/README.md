@@ -21,9 +21,6 @@ Link: https://tryhackme.com/room/rrootme
 
 ![](https://i.imgur.com/am3S3WY.png)
 
-
-> *(Lưu ý: Trong pentest thực tế, bạn cần scan hết 65535 ports để nắm hết các port và service đang chạy trên server, vì mình đã scan rồi và không thấy port nào khác nên khi viết wu mình chỉ scan tổng quan 1000 ports cho ngắn gọn và nhanh hơn)*
-
 Tất cả các port udp đều bị filtered, tcp có 2 port mở:
 
 * Port-22: OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 (SSH)
