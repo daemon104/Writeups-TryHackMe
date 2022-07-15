@@ -97,6 +97,8 @@ proc_close($process);
 ?>
 ```
 
+Phần code trên có mục đích là mở 1 socket tạo kết nối ngược từ máy target về máy mình, sau đó tạo 1 process chạy trên máy target và gọi tới shell '/bin/sh -i', chuyển dữ liệu ouput, error qua máy mình thông qua pipes[1], pipes[2] và nhận input từ phía mình thông qua pipes[0]. Sau khi nhận input từ máy mình, máy target sẽ thực thi và truyền output hoặc error về cho mình xem.
+
 ## Tiến hành thử nghiệm
 
 Đầu tiên, chúng ta tiến hành khai thác lỗi trên server Bolt như trong wu mình viết. Sau khi khai thác xong RCE, mình sẽ có được shell root như sau:
