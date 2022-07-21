@@ -1,3 +1,3 @@
 # TryHackMe writeups
 
-Crypto challenge writeups
+Cryptography challenge writeups
