@@ -32,7 +32,7 @@ Từ kết quả trên, ta thấy được dòng copyright có tên của ai đ�
 
 ![](https://i.imgur.com/wVz07Dh.png)
 
-Ok vậy giờ ta đã có đáp án cho câu 1 là cat(mèo).
+Ok vậy giờ ta đã có đáp án cho câu 1 là cat.
 
 ---
 ## Question 2 <a name="q2"></a>
